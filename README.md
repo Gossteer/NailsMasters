@@ -1,4 +1,4 @@
-## CRM
+## MyNails
 Мёртвый стартап - ссылка на [Google Play](https://play.google.com/store/apps/details?id=com.intrart.mynails)
 
 ### [Пример работы](https://dreamscometrue.gossteer.ru/)
